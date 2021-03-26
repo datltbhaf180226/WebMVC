@@ -1,0 +1,351 @@
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.exe
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.deps.json
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.runtimeconfig.json
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.pdb
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.Views.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.Views.pdb
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.AssemblyInfo.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorAssemblyInfo.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorAssemblyInfo.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.TagHelpers.input.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.TagHelpers.output.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorCoreGenerate.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorTargetAssemblyInfo.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorTargetAssemblyInfo.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.Views.pdb
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.Mvc.StaticWebAssets.Manifest.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.Mvc.StaticWebAssets.xml
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.pdb
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.genruntimeconfig.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.csproj.CopyComplete
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\_Single.cshtml.g.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP.NET Core MVC\BookMan\BookMan.Mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\_Form.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.exe
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.deps.json
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.runtimeconfig.json
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.runtimeconfig.dev.json
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.pdb
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.Views.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\BookMan.Mvc.Views.pdb
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.csprojAssemblyReference.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.AssemblyInfoInputs.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.AssemblyInfo.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorAssemblyInfo.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorAssemblyInfo.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.Mvc.StaticWebAssets.Manifest.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.Mvc.StaticWebAssets.xml
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookMan.Mvc.styles.css
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.TagHelpers.input.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.TagHelpers.output.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorCoreGenerate.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\_Form.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Book\_Single.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorTargetAssemblyInfo.cache
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorTargetAssemblyInfo.cs
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.Views.pdb
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.csproj.CopyComplete
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.dll
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.pdb
+C:\Users\letro\Desktop\BookMan.mvc\obj\Debug\netcoreapp3.1\BookMan.Mvc.genruntimeconfig.cache
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.exe
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.deps.json
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.runtimeconfig.json
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.runtimeconfig.dev.json
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.pdb
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.Views.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\BookMan.Mvc.Views.pdb
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.csprojAssemblyReference.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.AssemblyInfoInputs.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.AssemblyInfo.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorAssemblyInfo.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorAssemblyInfo.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.Mvc.StaticWebAssets.Manifest.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.Mvc.StaticWebAssets.xml
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookMan.Mvc.styles.css
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.TagHelpers.input.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.TagHelpers.output.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorCoreGenerate.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\Create.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\Delete.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\_Form.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Book\_Single.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorTargetAssemblyInfo.cache
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.RazorTargetAssemblyInfo.cs
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.Views.pdb
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.csproj.CopyComplete
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.dll
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.pdb
+C:\Users\letro\Desktop\BookMVC\obj\Debug\netcoreapp3.1\BookMan.Mvc.genruntimeconfig.cache
